@@ -14,6 +14,8 @@ if not is_tool('brew'):
 else:
     print 'Homebrew installed'
 
+print 'Installing brew cask'
+os.system('brew tap caskroom/cask')
 
 if not is_tool('salt'):
     print 'Installing saltstack...'
