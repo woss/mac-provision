@@ -3,7 +3,7 @@
 import os
 import distutils.spawn
 
-system_packages = ['wget','cask']
+system_packages = ['wget','ag','fzf','python3','golang','neovim','vim','nvm','git']
 
 def is_tool(name):
     return distutils.spawn.find_executable(name) is not None
@@ -35,7 +35,6 @@ print 'Installing bunch of stuff'
 #   export NVM_DIR="$HOME/.nvm"
 #   . "$(brew --prefix nvm)/nvm.sh"
 
+os.system('brew install ' + ' '.join(system_packages))
 
-
-os.system('brew install wget ag fzf python3 golang neovim vim nvm git')
-
+os.system('brew cask install atom')
