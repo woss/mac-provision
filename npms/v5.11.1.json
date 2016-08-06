@@ -1,0 +1,167 @@
+{
+  "dependencies": {
+    "bower": {
+      "version": "1.7.9",
+      "from": "bower@latest",
+      "resolved": "https://registry.npmjs.org/bower/-/bower-1.7.9.tgz"
+    },
+    "browserify": {
+      "version": "13.0.1",
+      "from": "browserify@13.0.1",
+      "resolved": "https://registry.npmjs.org/browserify/-/browserify-13.0.1.tgz"
+    },
+    "cordova": {
+      "version": "6.1.1",
+      "from": "cordova@6.1.1",
+      "resolved": "https://registry.npmjs.org/cordova/-/cordova-6.1.1.tgz"
+    },
+    "electron": {
+      "version": "0.4.1",
+      "from": "electron@latest",
+      "resolved": "https://registry.npmjs.org/electron/-/electron-0.4.1.tgz"
+    },
+    "electron-prebuilt": {
+      "version": "1.2.7",
+      "from": "electron-prebuilt@latest",
+      "resolved": "https://registry.npmjs.org/electron-prebuilt/-/electron-prebuilt-1.2.7.tgz"
+    },
+    "eslint_d": {
+      "version": "3.1.0",
+      "from": "eslint_d@3.1.0",
+      "resolved": "https://registry.npmjs.org/eslint_d/-/eslint_d-3.1.0.tgz"
+    },
+    "grunt-cli": {
+      "version": "1.2.0",
+      "from": "grunt-cli@1.2.0",
+      "resolved": "https://registry.npmjs.org/grunt-cli/-/grunt-cli-1.2.0.tgz"
+    },
+    "gulp": {
+      "version": "3.9.1",
+      "from": "gulp@3.9.1",
+      "resolved": "https://registry.npmjs.org/gulp/-/gulp-3.9.1.tgz"
+    },
+    "http-server": {
+      "version": "0.9.0",
+      "from": "http-server@0.9.0",
+      "resolved": "https://registry.npmjs.org/http-server/-/http-server-0.9.0.tgz"
+    },
+    "ionic": {
+      "version": "1.7.14",
+      "from": "ionic@1.7.14",
+      "resolved": "https://registry.npmjs.org/ionic/-/ionic-1.7.14.tgz"
+    },
+    "ios-deploy": {
+      "version": "1.8.6",
+      "from": "ios-deploy@latest",
+      "resolved": "https://registry.npmjs.org/ios-deploy/-/ios-deploy-1.8.6.tgz"
+    },
+    "jake": {
+      "version": "8.0.12",
+      "from": "jake@8.0.12",
+      "resolved": "https://registry.npmjs.org/jake/-/jake-8.0.12.tgz"
+    },
+    "jscs": {
+      "version": "3.0.3",
+      "from": "jscs@latest",
+      "resolved": "https://registry.npmjs.org/jscs/-/jscs-3.0.3.tgz"
+    },
+    "jsdoc": {
+      "version": "3.4.0",
+      "from": "jsdoc@3.4.0",
+      "resolved": "https://registry.npmjs.org/jsdoc/-/jsdoc-3.4.0.tgz"
+    },
+    "jshint": {
+      "version": "2.9.2",
+      "from": "jshint@latest",
+      "resolved": "https://registry.npmjs.org/jshint/-/jshint-2.9.2.tgz"
+    },
+    "json-server": {
+      "version": "0.8.10",
+      "from": "json-server@0.8.10",
+      "resolved": "https://registry.npmjs.org/json-server/-/json-server-0.8.10.tgz"
+    },
+    "karma": {
+      "version": "0.13.22",
+      "from": "karma@0.13.22",
+      "resolved": "https://registry.npmjs.org/karma/-/karma-0.13.22.tgz"
+    },
+    "karma-cli": {
+      "version": "0.1.2",
+      "from": "karma-cli@0.1.2",
+      "resolved": "https://registry.npmjs.org/karma-cli/-/karma-cli-0.1.2.tgz"
+    },
+    "live-server": {
+      "version": "0.9.2",
+      "from": "live-server@0.9.2",
+      "resolved": "https://registry.npmjs.org/live-server/-/live-server-0.9.2.tgz"
+    },
+    "mern-cli": {
+      "version": "3.0.1",
+      "from": "mern-cli@latest",
+      "resolved": "https://registry.npmjs.org/mern-cli/-/mern-cli-3.0.1.tgz"
+    },
+    "node-inspector": {
+      "version": "0.12.8",
+      "from": "node-inspector@0.12.8",
+      "resolved": "https://registry.npmjs.org/node-inspector/-/node-inspector-0.12.8.tgz"
+    },
+    "node-tinypng": {
+      "version": "0.0.4",
+      "from": "node-tinypng@0.0.4",
+      "resolved": "https://registry.npmjs.org/node-tinypng/-/node-tinypng-0.0.4.tgz"
+    },
+    "nodemon": {
+      "version": "1.9.2",
+      "from": "nodemon@latest",
+      "resolved": "https://registry.npmjs.org/nodemon/-/nodemon-1.9.2.tgz"
+    },
+    "npm": {
+      "version": "3.8.6"
+    },
+    "react-native-cli": {
+      "version": "1.0.0",
+      "from": "react-native-cli@latest",
+      "resolved": "https://registry.npmjs.org/react-native-cli/-/react-native-cli-1.0.0.tgz"
+    },
+    "reapp": {
+      "version": "0.8.28",
+      "from": "reapp@0.8.28",
+      "resolved": "https://registry.npmjs.org/reapp/-/reapp-0.8.28.tgz"
+    },
+    "steroids": {
+      "version": "4.1.25",
+      "from": "steroids@latest",
+      "resolved": "https://registry.npmjs.org/steroids/-/steroids-4.1.25.tgz"
+    },
+    "tsd": {
+      "version": "0.6.5",
+      "from": "tsd@0.6.5",
+      "resolved": "https://registry.npmjs.org/tsd/-/tsd-0.6.5.tgz"
+    },
+    "typescript": {
+      "version": "1.8.10",
+      "from": "typescript@1.8.10",
+      "resolved": "https://registry.npmjs.org/typescript/-/typescript-1.8.10.tgz"
+    },
+    "yo": {
+      "version": "1.8.3",
+      "from": "yo@latest",
+      "resolved": "https://registry.npmjs.org/yo/-/yo-1.8.3.tgz"
+    },
+    "babel": {
+      "version": "5.8.38",
+      "from": "babel@5.8.38",
+      "resolved": "https://registry.npmjs.org/babel/-/babel-5.8.38.tgz"
+    },
+    "eslint": {
+      "version": "2.7.0",
+      "from": "eslint@2.7.0",
+      "resolved": "https://registry.npmjs.org/eslint/-/eslint-2.7.0.tgz"
+    },
+    "webpack": {
+      "version": "1.13.0",
+      "from": "webpack@1.13.0",
+      "resolved": "https://registry.npmjs.org/webpack/-/webpack-1.13.0.tgz"
+    }
+  }
+}
