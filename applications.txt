@@ -1,0 +1,142 @@
+/Applications/.Ableton Live 9 Suite_updated.app
+/Applications/1Password.app
+/Applications/Ableton Live 9 Suite.app
+/Applications/Adobe Digital Editions 4.5.app
+/Applications/Adobe Digital Editions.app
+/Applications/Android Studio.app
+/Applications/App Store.app
+/Applications/AppCleaner.app
+/Applications/Atom.app
+/Applications/Automator.app
+/Applications/Battle.net.app
+/Applications/Blackmagic Disk Speed Test.app
+/Applications/Calculator.app
+/Applications/Calendar.app
+/Applications/Chess.app
+/Applications/Chromium.app
+/Applications/ClipMenu.app
+/Applications/Clocks.app
+/Applications/Colloquy.app
+/Applications/Contacts.app
+/Applications/DaisyDisk.app
+/Applications/Dash.app
+/Applications/Dashboard.app
+/Applications/Dictionary.app
+/Applications/DiskMaker X 5.app
+/Applications/Divvy.app
+/Applications/Dropbox.app
+/Applications/DVD Player.app
+/Applications/Emacs.app
+/Applications/Evernote.app
+/Applications/FaceTime.app
+/Applications/Firefox.app
+/Applications/Font Book.app
+/Applications/ForkLift.app
+/Applications/Game Center.app
+/Applications/GarageBand.app
+/Applications/Gas Mask.app
+/Applications/Genymotion Shell.app
+/Applications/Genymotion.app
+/Applications/gfxCardStatus.app
+/Applications/GitHub Desktop.app
+/Applications/Google Chrome.app
+/Applications/Google Drive.app
+/Applications/Google Earth.app
+/Applications/HyperSwitch.app
+/Applications/iBooks.app
+/Applications/Icon Composer.app
+/Applications/IDLE.app
+/Applications/iExplorer.app
+/Applications/Image Capture.app
+/Applications/ImageOptim.app
+/Applications/iMovie.app
+/Applications/Install OS X El Capitan.app
+/Applications/Insync.app
+/Applications/Isoplex.app
+/Applications/iStat Menus.app
+/Applications/iTerm copy.app
+/Applications/iTerm.app
+/Applications/iTunes.app
+/Applications/jabra_firmware_updater.app
+/Applications/Keka.app
+/Applications/Keynote.app
+/Applications/LastPass.app
+/Applications/Launchpad.app
+/Applications/MacVim.app
+/Applications/Mail.app
+/Applications/Maps.app
+/Applications/Messages.app
+/Applications/Mischief-Free.app
+/Applications/Mission Control.app
+/Applications/MySQLWorkbench.app
+/Applications/Neovim.app
+/Applications/NetSpot.app
+/Applications/Notes.app
+/Applications/Numbers.app
+/Applications/OmniGraffle Professional 5.app
+/Applications/OpenEmu.app
+/Applications/OpenGL Driver Monitor.app
+/Applications/OpenGL Profiler.app
+/Applications/OpenGL Shader Builder.app
+/Applications/OpenOffice.app
+/Applications/Opera.app
+/Applications/Pages.app
+/Applications/Paw.app
+/Applications/Photo Booth.app
+/Applications/Photos.app
+/Applications/Pixate Studio.app
+/Applications/Pixie.app
+/Applications/PopcornTime.app
+/Applications/Postman.app
+/Applications/Preview.app
+/Applications/PyCharm.app
+/Applications/Python Launcher.app
+/Applications/Quartz Composer Visualizer.app
+/Applications/Quartz Composer.app
+/Applications/Quartz Debug.app
+/Applications/QuickTime Player.app
+/Applications/RecoveRx.app
+/Applications/Reminders.app
+/Applications/Robomongo.app
+/Applications/Safari.app
+/Applications/Sequel Pro.app
+/Applications/Sketch Toolbox.app
+/Applications/Sketch.app
+/Applications/SketchBook.app
+/Applications/Sketchode.app
+/Applications/Skype.app
+/Applications/Slack.app
+/Applications/Sony Ericsson Bridge for Mac.app
+/Applications/SourceTree.app
+/Applications/Spotify.app
+/Applications/Spotydl.app
+/Applications/sqlitebrowser.app
+/Applications/Steam.app
+/Applications/Stickies.app
+/Applications/Sublime Text.app
+/Applications/System Preferences.app
+/Applications/TeamViewer.app
+/Applications/TextEdit.app
+/Applications/TextMate.app
+/Applications/TexturePacker.app
+/Applications/The Unarchiver.app
+/Applications/Time Machine.app
+/Applications/TogglDesktop.app
+/Applications/Transmission.app
+/Applications/Tunnelblick.app
+/Applications/Twitter.app
+/Applications/Viber.app
+/Applications/VirtualBox.app
+/Applications/Viscosity.app
+/Applications/VLC.app
+/Applications/VLCStreamer.app
+/Applications/VMware Fusion.app
+/Applications/WebStorm.app
+/Applications/Wireshark.app
+/Applications/Write.app
+/Applications/Wunderlist.app
+/Applications/Xcode.app
+/Applications/Yubico Authenticator.app
+/Applications/YubiKey NEO Manager.app
+/Applications/YubiKey Personalization Tool.app
+/Applications/YubiKey PIV Manager.app
