@@ -31,4 +31,6 @@ Dev packages:
 * 
 
 
+when installing brew should be installed in `~/brew`  dir
+
 http://www.hammerspoon.org/
